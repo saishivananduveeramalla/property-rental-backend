@@ -1,0 +1,10 @@
+target/
+bin/
+*.class
+*.jar
+.env
+.env.*
+application.properties
+application-local.properties
+data/
+*.log
